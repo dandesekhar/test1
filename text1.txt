@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4042-684C
+
+ Directory of C:\Users\CHANDU\Desktop\Myproject
+
+16-Feb-17  07:50 PM    <DIR>          .
+16-Feb-17  07:50 PM    <DIR>          ..
+16-Feb-17  07:50 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,982,611,968 bytes free
